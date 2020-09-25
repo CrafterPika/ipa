@@ -1,64 +1,569 @@
 {
-  "delta": "https://github.com/rileytestut/Delta/releases/latest/download/delta.ipa",
-  "EveryCord": "http://everycord.net/EveryCord_Dist.ipa",
-  "iNDS": "https://github.com/iNDS-Team/iNDS/releases/latest/download/iNDS.ipa",
-  "RetroArch": "https://buildbot.libretro.com/stable/1.9.0/apple/ios/RetroArch.ipa",
-  "Odyssey": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.1.1/Odyssey-1.1.1.ipa",
-  "unc0ver": "https://github.com/CrafterPika/ipa/releases/download/ipa/unc0ver_5.3.1.ipa",
-  "Chimera": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
-  "iTorrent": "https://github.com/XITRIX/iTorrent/releases/latest/download/iTorrent.ipa",
-  "PPSSPP": "https://github.com/CrafterPika/ipa/releases/download/ipa/PPSSPP_v1.10.3-600-g8a9b4ab40.ipa",
-  "FlappyBird_OG": "https://github.com/CrafterPika/ipa/releases/download/ipa/FlappyBird_v1.2.ipa",
-  "Provenance": "https://github.com/CrafterPika/ipa/releases/download/ipa/Provenance_1.5_beta.ipa",
-  "NDS4iOS": "https://github.com/CrafterPika/ipa/releases/download/ipa/nds4ios.ipa",
-  "GBA4iOS": "https://github.com/CrafterPika/ipa/releases/download/ipa/GBA4iOS_v2.1.1.ipa",
-  "DolphiniOS": "https://github.com/CrafterPika/ipa/releases/download/ipa/DolphiniOS-NJB-3.0.0-257.ipa",
-  "UTM": "https://github.com/utmapp/UTM/releases/latest/download/UTM.ipa",
-  "Twitter_Owl": "https://github.com/CrafterPika/ipa/releases/download/ipa/Twitter.Owl.v1.2.ipa",
-  "insta_rocket": "https://github.com/CrafterPika/ipa/releases/download/ipa/me.alfhaily.rocket_v3.7.3.ipa",
-  "Facebook_Wolf": "https://github.com/CrafterPika/ipa/releases/download/ipa/Facebook.Wolf.v1.4.ipa",
-  "Cercube": "https://github.com/CrafterPika/ipa/releases/download/ipa/cercube_5.2.3.ipa",
-  "T-Tinder++": "https://github.com/caspd3v/imods/blob/master/T-Tinder++.ipa?raw=true",
-  "DiscordBlack": "https://github.com/caspd3v/imods/blob/master/DiscordBlack.ipa?raw=true",
-  "CDCloud++": "https://github.com/caspd3v/imods/blob/master/CDCloud++.ipa?raw=true",
-  "All4++": "https://github.com/caspd3v/imods/blob/master/All4++.ipa?raw=true",
-  "TikTok_Unicorn": "https://github.com/CrafterPika/ipa/releases/download/ipa/TikTok.Unicorn.v4.2.ipa",
-  "Twitch++": "https://github.com/CrafterPika/ipa/releases/download/ipa/Twitch-plus-v1.1.ipa",
-  "Reddit++": "https://github.com/CrafterPika/ipa/releases/download/ipa/Reddit-plus-plus-T1.2.ipa",
-  "FlappyBird": "https://github.com/brandonplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
-  "h3lix": "https://h3lix.tihmstar.net/ipa/h3lix-RC6.ipa",
-  "doubleh3lix": "https://doubleh3lix.tihmstar.net/ipa/doubleH3lix-RC8.ipa",
-  "etasonjb": "https://etasonjb.tihmstar.net/ipa/etasonJB-RC5.ipa",
-  "yalu102": "https://yalu.qwertyoruiop.com/yalu102_beta7.ipa",
-  "meridian": "https://meridian.sparkes.zone/downloads/Meridian-v0.9-007.ipa",
-  "phoenix": "https://github.com/CrafterPika/ipa/releases/download/ipa/Phoenix5.ipa",
-  "iSH": "https://github.com/ish-app/ish/releases/latest/download/iSH.ipa",
-  "Electra": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-1.3.2.ipa",
-  "Houdini": "https://github.com/CrafterPika/ipa/releases/download/ipa/houdini_b2r1_official.ipa",
-  "iSSB": "https://github.com/CrafterPika/ipa/releases/download/ipa/iSSB.ipa",
-  "Watusi": "https://github.com/CrafterPika/ipa/releases/download/ipa/net.whatsapp.WhatsApp_v2.20.90_watusi_1.3.7_stalky_4.1.4.ipa",
-  "BatteryLife": "https://github.com/CrafterPika/ipa/releases/download/ipa/BatteryLife.ipa",
-  "FileBrowser": "https://github.com/CrafterPika/ipa/releases/download/ipa/FileBrowser_v1.2.ipa",
-  "iPoGo": "https://ipogo.app/download/ipogo-1.6.6.ipa",
-  "Spotify++": "https://github.com/CrafterPika/ipa/releases/download/ipa/Spotify_w.Spotilife_v8.4.43.ipa",
-  "Play!": "https://github.com/CrafterPika/ipa/releases/download/ipa/Play.ipa",
-  "GC4iOS": "https://github.com/CrafterPika/ipa/releases/download/ipa/GC4iOS.v0.13.ipa",
-  "cercube5noads": "https://github.com/CrafterPika/ipa/releases/download/ipa/cercube5noads.ipa",
-  "AppCake++": "https://github.com/CrafterPika/ipa/releases/download/ipa/appcakepp_v0.3a.ipa",
-  "FilzaEscaped13": "https://github.com/CrafterPika/ipa/releases/download/ipa/FilzaEscaped13.ipa",
-  "iSH_RW": "https://github.com/CrafterPika/ipa/releases/download/ipa/iSH_RW.ipa",
-  "Spotify++_Sposify": "https://github.com/CrafterPika/ipa/releases/download/ipa/Spotify_w.Spotilife_Sposify_v8.4.43.ipa",
-  "DiOS_Patreon": "https://github.com/CrafterPika/ipa/releases/download/ipa/DiOS_Patreon_v96.ipa",
-  "AmongUS_hack": "https://github.com/CrafterPika/ipa/releases/download/ipa/Among.Us.Hack.No.Jailbreak.Cheats.2020.9.9.Hacked.IPA.by.iOSGods.com.ipa",
-  "ZipAppLite++": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/ZipAppLite++.ipa",
-  "ESign": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/esign_1.1.3_co.ipa",
-  "RootlessJB4": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/rootlessJB4.ipa",
-  "Duolingo++": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Duolingo_6.62.0_Modded_IPA_.ipa",
-  "SpotUlt": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/SpotUlt++_0.9.2-NamePatched.ipa",
-  "AppCake++2": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/AppCake++_v0.5a.ipa",
-  "CrackTool3": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/CrackTools3_3.0-beta11.ipa",
-  "ZeniTevi++": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Zinitevi++.ipa",
-  "LightiningSign": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/LightiningSign_1.0.0_Abood.ipa",
-  "GBox": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/GBox_v2.9.8.ipa",
-  "BoarSign": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/BoarSign_v1.2_InstaTechHD.ipa"
+  "Spotify++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Spotify_w.Spotilife_v8.4.43.ipa",
+    "version": "8.4.43",
+    "last_updated": "20.09.2020",
+    "bundle_id": "com.spotify.client",
+    "author": "Julioverne",
+    "min_ios": "iOS 9.0 or Later",
+    "Description": "Spotilife and Sposify in one Pack! Enjoy a real great Spotify Experience."
+  },
+  "iNDS": {
+    "ipa": "https://github.com/iNDS-Team/iNDS/releases/latest/download/iNDS.ipa",
+    "version": "1.10.7",
+    "last_updated": "11.02.2020",
+    "bundle_id": "net.nerd.iNDS-true",
+    "author": "iNDS-Team, WilliamLCobb",
+    "min_ios": "iOS 9.0 or Later",
+    "Description": "Revival of the Nintendo DS emulator for iOS"
+  },
+  "Delta": {
+    "ipa": "https://github.com/rileytestut/Delta/releases/latest/download/delta.ipa",
+    "version": "1.1.2",
+    "last_updated": "04.02.2020",
+    "bundle_id": "com.rileytestut.Delta",
+    "author": "Riley Testut",
+    "min_ios": "iOS 12.2 or Later",
+    "Description": "The Successor to GBA4iOS."
+  },
+  "EveryCord": {
+    "ipa": "http://everycord.net/EveryCord_Dist.ipa",
+    "version": "1.2",
+    "last_updated": "Unknown",
+    "bundle_id": "com.adatech.EveryCord",
+    "author": "iRec Team",
+    "min_ios": "iOS 10.0 or Later",
+    "Description": "Record your Screen, but with Quality!"
+  },
+  "CrackTool3": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/CrackTools3_3.0-beta11.ipa",
+    "version": "3.0~beta11",
+    "last_updated": "Unknown",
+    "bundle_id": "com.julioverne.cracktool3",
+    "author": "Julioverne",
+    "min_ios": "iOS 11.0 or Later",
+    "Description": "Crack Tweaks with one click."
+  },
+  "RetroArch": {
+    "ipa": "https://buildbot.libretro.com/stable/1.9.0/apple/ios/RetroArch.ipa",
+    "version": "1.9.0",
+    "last_updated": "Unknown",
+    "bundle_id": "com.libretro.dist.ios.RetroArch",
+    "author": "LibRetro Team",
+    "min_ios": "iOS 11.0 or Later",
+    "Description": "The All-In-One Retro Emulator"
+  },
+  "Odyssey": {
+    "ipa": "https://github.com/TheOdysseyJB/Odyssey/releases/download/v1.1.2/Odyssey-1.1.2.ipa",
+    "version": "1.1.2",
+    "last_updated": "23.09.2020",
+    "bundle_id": "org.coolstar.odyssey",
+    "author": "CoolStar and a few of his Buds",
+    "min_ios": "iOS 13.0 - 13.5",
+    "Description": "A new Jailbreak Era."
+  },
+  "unc0ver": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/unc0ver_5.3.1.ipa",
+    "version": "5.3.1",
+    "last_updated": "23.07.2020",
+    "bundle_id": "science.xnu.undecimus",
+    "author": "pwn20wnd & SBinger",
+    "min_ios": "iOS 11.0 - 13.5",
+    "Description": "The most advanced jail​break tool."
+  },
+  "Chimera": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Chimera_v1.4.0.ipa",
+    "version": "1.4.0",
+    "last_updated": "unknown",
+    "bundle_id": "com.electrateam.chimera",
+    "author": "Electra Team",
+    "min_ios": "iOS 12.0 - 12.4",
+    "Description": "Your device, your way."
+  },
+  "iTorrent": {
+    "ipa": "https://github.com/XITRIX/iTorrent/releases/latest/download/iTorrent.ipa",
+    "version": "1.8.3",
+    "last_updated": "20.09.2020",
+    "bundle_id": "ru.nonamedude.iTorrent",
+    "author": "XITRIX",
+    "min_ios": "iOS 9.3 or Later",
+    "Description": "Torrent client for iOS."
+  },
+  "iTorrent": {
+    "ipa": "https://github.com/XITRIX/iTorrent/releases/latest/download/iTorrent.ipa",
+    "version": "1.8.3",
+    "last_updated": "20.09.2020",
+    "bundle_id": "ru.nonamedude.iTorrent",
+    "author": "XITRIX",
+    "min_ios": "iOS 9.3 or Later",
+    "Description": "Torrent client for iOS."
+  },
+  "PPSSPP": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/PPSSPP_v1.10.3-600-g8a9b4ab40.ipa",
+    "version": "v1.10.3",
+    "last_updated": "unknown",
+    "bundle_id": "org.ppsspp.ppsspp",
+    "author": "PPSSPP Team",
+    "min_ios": "iOS 8.0 or Later",
+    "Description": "PSP emulator for iOS"
+  },
+  "FlappyBird_v1": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FlappyBird_v1.2.ipa",
+    "version": "v1.2",
+    "last_updated": "unknown",
+    "bundle_id": "com.dotgears.flap",
+    "author": ".GEARS",
+    "min_ios": "iOS 6.0 - 10.3.4",
+    "Description": "The original FlappyBird."
+  },
+  "Provenance": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Provenance_1.5_beta.ipa",
+    "version": "v1.5-beta",
+    "last_updated": "unknown",
+    "bundle_id": "net.hollr.Provenance4",
+    "author": "Provenance Team",
+    "min_ios": "iOS 8.0 or Later",
+    "Description": "Another Multi Emulator"
+  },
+  "NDS4iOS": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/nds4ios.ipa",
+    "version": "2.0",
+    "last_updated": "unknown",
+    "bundle_id": "org.infinidev.nds4ios",
+    "author": "infinidev",
+    "min_ios": "iOS 5.0 or Later",
+    "Description": "The original NDS emulator for iOS"
+  },
+  "GBA4iOS": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/GBA4iOS_v2.1.1.ipa",
+    "version": "2.1",
+    "last_updated": "Somewhere in 2017",
+    "bundle_id": "com.macbuildserver.GBA4iOS",
+    "author": "Riley Testut",
+    "min_ios": "iOS 9.0 or Later",
+    "Description": ":purple_heart:"
+  },
+  "DolphiniOS": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/DolphiniOS-NJB-3.0.0-257.ipa",
+    "version": "3.0.0",
+    "last_updated": "unknown",
+    "bundle_id": "me.oatmealdome.DolphiniOS-njb",
+    "author": "OatmealDome",
+    "min_ios": "iOS 12.0 or Later",
+    "Description": "Wii and GC Emulator"
+  },
+  "UTM": {
+    "ipa": "https://github.com/utmapp/UTM/releases/latest/download/UTM.ipa",
+    "version": "1.0",
+    "last_updated": "unknown",
+    "bundle_id": "com.osy86.UTM",
+    "author": "Osy86",
+    "min_ios": "iOS 11.0 or Later",
+    "Description": "Run VMs on iOS"
+  },
+  "Twitter_Owl": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Twitter.Owl.v1.2.ipa",
+    "version": "1.2",
+    "last_updated": "unknown",
+    "bundle_id": "com.atebits.Tweetie2",
+    "author": "@ClassicEmoji",
+    "min_ios": "iOS 13.0 or Later",
+    "Description": "Mod for Twitter"
+  },
+  "insta_rocket": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/me.alfhaily.rocket_v3.7.3.ipa",
+    "version": "3.7.3",
+    "last_updated": "unknown",
+    "bundle_id": "com.burbn.instagram",
+    "author": "Majd Alfhaily",
+    "min_ios": "iOS 11.0 or Later",
+    "Description": "Mod for Instagram"
+  },
+  "Facebook_Wolf": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Facebook.Wolf.v1.4.ipa",
+    "version": "1.4",
+    "last_updated": "unknown",
+    "bundle_id": "com.lema.facebookApp",
+    "author": "@ClassicEmoji",
+    "min_ios": "iOS 12.0 or Later",
+    "Description": "Mod for Facebook"
+  },
+  "Cercube": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/cercube_5.2.3.ipa",
+    "version": "5.2.3",
+    "last_updated": "unknown",
+    "bundle_id": "com.google.ios.youtube",
+    "author": "Majd Alfhaily",
+    "min_ios": "iOS 11.0 or Later",
+    "Description": "The ultimade YouTube Tweak"
+  },
+  "T-Tinder++": {
+    "ipa": "https://github.com/caspd3v/imods/blob/master/T-Tinder++.ipa?raw=true",
+    "version": "11.19.0",
+    "last_updated": "unknown",
+    "bundle_id": "dev.casp.t-tinder",
+    "author": "CaspDev",
+    "min_ios": "iOS 13.0 or Later",
+    "Description": "Another Tweak for Tinder"
+  },
+  "DiscordBlack": {
+    "ipa": "https://github.com/caspd3v/imods/blob/master/DiscordBlack.ipa?raw=true",
+    "version": "35.1",
+    "last_updated": "unknown",
+    "bundle_id": "dev.casp.discordblackout",
+    "author": "CaspDev",
+    "min_ios": "iOS 13.0 or Later",
+    "Description": "True darkmode for Discord."
+  },
+  "CDCloud++": {
+    "ipa": "https://github.com/caspd3v/imods/blob/master/CDCloud++.ipa?raw=true",
+    "version": "5.102.0",
+    "last_updated": "unknown",
+    "bundle_id": "dev.casp.cdcloud",
+    "author": "CaspDev",
+    "min_ios": "iOS 10.0 or Later",
+    "Description": "SoundCloud Tweak."
+  },
+  "All4++": {
+    "ipa": "https://github.com/caspd3v/imods/blob/master/All4++.ipa?raw=true",
+    "version": "9.3.2",
+    "last_updated": "unknown",
+    "bundle_id": "uk.co.channel4.ios.4od",
+    "author": "CaspDev",
+    "min_ios": "iOS 13.0 or Later",
+    "Description": "All4 Tweak."
+  },
+  "TikTok_Unicorn": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/TikTok.Unicorn.v4.2.ipa",
+    "version": "v4.2",
+    "last_updated": "unknown",
+    "bundle_id": "com.zhiliaoapp.musically",
+    "author": "@ClassicEmoji",
+    "min_ios": "iOS 12.0 or Later",
+    "Description": "Amazing TikTok Tweak"
+  },
+  "Twitch++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Twitch-plus-v1.1.ipa",
+    "version": "v1.1",
+    "last_updated": "unknown",
+    "bundle_id": "tv.twitch",
+    "author": "@ClassicEmoji",
+    "min_ios": "iOS 13.0 or Later",
+    "Description": "Tweak for Twitch."
+  },
+  "Reddit++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Reddit-plus-plus-T1.2.ipa",
+    "version": "v1.2",
+    "last_updated": "unknown",
+    "bundle_id": "com.lema.LizardApp",
+    "author": "@ClassicEmoji",
+    "min_ios": "iOS 13.0 or Later",
+    "Description": "Tweak for Reddit."
+  },
+  "FlappyBird_v2": {
+    "ipa": "https://github.com/brandonplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
+    "version": "v3.8",
+    "last_updated": "20.08.2020",
+    "bundle_id": "org.brandonplank.flappybird",
+    "author": "Brandon Plank",
+    "min_ios": "iOS 10.0 or Later",
+    "Description": "Brandon's Amazing Flappy Bird Clone which is really close to the Original."
+  },
+  "FlappyBird_v2": {
+    "ipa": "https://github.com/brandonplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
+    "version": "v3.8",
+    "last_updated": "20.08.2020",
+    "bundle_id": "org.brandonplank.flappybird",
+    "author": "Brandon Plank",
+    "min_ios": "iOS 10.0 or Later",
+    "Description": "Brandon's Amazing Flappy Bird Clone which is really close to the Original."
+  },
+  "h3lix": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/h3lix-RC6.ipa",
+    "version": "1.0-RC6",
+    "last_updated": "unknown",
+    "bundle_id": "org.tihmstar.h3lix",
+    "author": "Thimstar",
+    "min_ios": "iOS 10.0 - 10.3.4",
+    "Description": "iOS 10.x JB for 32-bit devices"
+  },
+  "doubleh3lix": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/doubleH3lix-RC8.ipa",
+    "version": "1.0-RC8",
+    "last_updated": "unknown",
+    "bundle_id": "org.tihmstar.doubleh3lix",
+    "author": "Thimstar",
+    "min_ios": "iOS 10.0 - 10.3.3",
+    "Description": "iOS 10.x JB for 64-bit (A7-A9) devices"
+  },
+  "etasonjb": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/etasonJB-RC5.ipa",
+    "version": "1.0-RC5",
+    "last_updated": "unknown",
+    "bundle_id": "org.tihmstar.etasonjb",
+    "author": "Thimstar",
+    "min_ios": "iOS 8.4.1",
+    "Description": "untethered iOS 8.4.1 jb"
+  },
+  "meridian": {
+    "ipa": "https://github.com/PsychoTea/MeridianJB/releases/download/v0.9-007/Meridian-v0.9-007.ipa",
+    "version": "0.9-007",
+    "last_updated": "unknown",
+    "bundle_id": "zone.sparkes.MeridianJB2",
+    "author": "Sparkey",
+    "min_ios": "iOS 10.0 - 10.3.3",
+    "Description": "an A7-A10 iOS 10.x JB"
+  },
+  "phoenix": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Phoenix5.ipa",
+    "version": "5.0",
+    "last_updated": "unknown",
+    "bundle_id": "supplies.wall.phoenix",
+    "author": "Phoenix Team",
+    "min_ios": "iOS 9.3.4 - 9.3.5",
+    "Description": "an iOS 9 JB"
+  },
+  "iSH": {
+    "ipa": "https://github.com/ish-app/ish/releases/latest/download/iSH.ipa",
+    "version": "Build-75",
+    "last_updated": "25.09.2020",
+    "bundle_id": "app.ish.iSH",
+    "author": "Mainly maintained by tbodt",
+    "min_ios": "iOS 11.0 or later",
+    "Description": "Linux shell on no-jb iOS."
+  },
+  "Electra": {
+    "ipa": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-1.3.2.ipa",
+    "version": "1.3.2",
+    "last_updated": "unknown",
+    "bundle_id": "org.coolstar.electra1141",
+    "author": "Electra Team",
+    "min_ios": "iOS 11.0 - 11.4.1",
+    "Description": "Original iOS 11.x Jailbreak."
+  },
+  "Houdini": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/houdini_b2r1_official.ipa",
+    "version": "b2r1",
+    "last_updated": "unknown",
+    "bundle_id": "com.cheesecakeufo.houdini",
+    "author": "cheesecakeufo",
+    "min_ios": "iOS 10.0 - 11.1.2",
+    "Description": "Sort of Jailbreak, allows you to customize a few spesific things."
+  },
+  "iSSB": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/iSSB.ipa",
+    "version": "2.21-3",
+    "last_updated": "unknown",
+    "bundle_id": "net.hollr.issb",
+    "author": "idk even that",
+    "min_ios": "iOS 9.0 later",
+    "Description": "(Very) Bad clone of Super Smash Bros"
+  },
+  "Watusi": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/net.whatsapp.WhatsApp_v2.20.90_watusi_1.3.7_stalky_4.1.4.ipa",
+    "version": "v2.20.90",
+    "last_updated": "unknown",
+    "bundle_id": "net.whatsapp.WhatsApp",
+    "author": "Fouad Raheb",
+    "min_ios": "iOS 9.0 later",
+    "Description": "Amazing Whatsapp Tweak"
+  },
+  "BatteryLife": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/BatteryLife.ipa",
+    "version": "1.6.9",
+    "last_updated": "unknown",
+    "bundle_id": "com.rbt.batteryLifeApp",
+    "author": "unknown",
+    "min_ios": "iOS 6.0 later",
+    "Description": "Don't really understand the usage."
+  },
+  "FileBrowser": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FileBrowser_v1.2.ipa",
+    "version": "1.2",
+    "last_updated": "unknown",
+    "bundle_id": "com.highcaffeinecontent.Files",
+    "author": "unknown",
+    "min_ios": "iOS 8.0 later",
+    "Description": "Some kind of FileBrowser."
+  },
+  "iPoGo": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/ipogo-1.6.6.ipa",
+    "version": "1.6.6",
+    "last_updated": "unknown",
+    "bundle_id": "com.nianticlabs.pokemongo",
+    "author": "iPoGo Team",
+    "min_ios": "iOS 10.0 later",
+    "Description": "Pokemon Go Tweak."
+  },
+  "Play!": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Play.ipa",
+    "version": "0.30",
+    "last_updated": "unknown",
+    "bundle_id": "com.virtualapplications.play",
+    "author": "Play Team",
+    "min_ios": "iOS 9.0 later",
+    "Description": "PS2 Emulator for iOS 10 and below"
+  },
+  "GC4iOS": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/GC4iOS.v0.13.ipa",
+    "version": "0.1.3",
+    "last_updated": "unknown",
+    "bundle_id": "com.kabiroberai.GC4iOS",
+    "author": "WilliamLCobb",
+    "min_ios": "iOS 8.1 later",
+    "Description": "Alternate GC & Wii Emu for iOS 10 and below"
+  },
+  "cercube5noads": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/cercube5noads.ipa",
+    "version": "15.22.4",
+    "last_updated": "unknown",
+    "bundle_id": "com.google.io.youtube",
+    "author": "Majd Alfhaily",
+    "min_ios": "iOS 11.0 later",
+    "Description": "Cercube 5 but without ads"
+  },
+  "AppCake++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/appcakepp_v0.3a.ipa",
+    "version": "v0.3a",
+    "last_updated": "unknown",
+    "bundle_id": "com.crafterpika.appcake",
+    "author": "CrafterPika",
+    "min_ios": "iOS 11.0 later",
+    "Description": "Removes ads in AppCake"
+  },
+  "FilzaEscaped13": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FilzaEscaped13.ipa",
+    "version": "3.7",
+    "last_updated": "unknown",
+    "bundle_id": "com.dry05-filzaescaped11-12",
+    "author": "@AppleDry05",
+    "min_ios": "iOS 12.0 later",
+    "Description": "Filza no-jb for iOS 12.0-13.4.1"
+  },
+  "iSH_RW": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/iSH_RW.ipa",
+    "version": "1.0",
+    "last_updated": "unknown",
+    "bundle_id": "com.jankais3r.iSH",
+    "author": "iSH Team",
+    "min_ios": "iOS 11.0 later",
+    "Description": "iSH with Physics Paper."
+  },
+  "DiOS_Patreon": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/DiOS_Patreon_v96.ipa",
+    "version": "3.1.0",
+    "last_updated": "unknown",
+    "bundle_id": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+    "author": "OatmealDome",
+    "min_ios": "iOS 12.0 - 13.7",
+    "Description": "DolphiniOS for iOS 13.7 and below for no-jb"
+  },
+  "AmongUS_hack": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Among.Us.Hack.No.Jailbreak.Cheats.2020.9.9.Hacked.IPA.by.iOSGods.com.ipa",
+    "version": "2020.9.9",
+    "last_updated": "unknown",
+    "bundle_id": "com.innersloth.amongus",
+    "author": "OatmealDome",
+    "min_ios": "iOS 8.0 or later",
+    "Description": "A among us hack"
+  },
+  "AmongUS_hack": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Among.Us.Hack.No.Jailbreak.Cheats.2020.9.9.Hacked.IPA.by.iOSGods.com.ipa",
+    "version": "2020.9.9",
+    "last_updated": "unknown",
+    "bundle_id": "com.innersloth.amongus",
+    "author": "iOSGods",
+    "min_ios": "iOS 8.0 or later",
+    "Description": "A among us hack"
+  },
+  "ZipAppLite++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/ZipAppLite++.ipa",
+    "version": "4.0.2",
+    "last_updated": "unknown",
+    "bundle_id": "net.langui.zipappfree",
+    "author": "CrafterPika",
+    "min_ios": "iOS 12.2 or later",
+    "Description": "Ads Removed"
+  },
+  "ESign": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/esign_1.1.3_co.ipa",
+    "version": "1.1.3",
+    "last_updated": "unknown",
+    "bundle_id": "xyz.esign.YYYSign",
+    "author": "E-Sign utility",
+    "min_ios": "iOS 11.0 or later",
+    "Description": "On-Device Signing Utility"
+  },
+  "RootlessJB4": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/rootlessJB4.ipa",
+    "version": "1.0",
+    "last_updated": "unknown",
+    "bundle_id": "com.jakeashacks.iSuperSU",
+    "author": "JakeasHacks and Brandon Plank",
+    "min_ios": "iOS 12.0 - 12.4.8",
+    "Description": "Rootless Jailbreak"
+  },
+  "Duolingo++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Duolingo_6.62.0_Modded_IPA_.ipa",
+    "version": "6.62.0",
+    "last_updated": "unknown",
+    "bundle_id": "com.duolingo.DuolingoMobile",
+    "author": "unknown",
+    "min_ios": "iOS 10.0 or later",
+    "Description": "Duolingo Hack"
+  },
+  "SpotUlt": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/SpotUlt++_0.9.2-NamePatched.ipa",
+    "version": "0.9.2",
+    "last_updated": "unknown",
+    "bundle_id": "syto203.spotultpp",
+    "author": "syto203",
+    "min_ios": "iOS 10.0 or later",
+    "Description": "The Ultimate Spotify Hack"
+  },
+  "AppCake++2": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/AppCake++_v0.5a.ipa",
+    "version": "0.5a",
+    "last_updated": "unknown",
+    "bundle_id": "io.crafterpika.appcakep2",
+    "author": "CrafterPika",
+    "min_ios": "iOS 11.0 or later",
+    "Description": "AppCake++ for AppCake 7.1.0"
+  },
+  "ZeniTevi++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Zinitevi++.ipa",
+    "version": "0.5a",
+    "last_updated": "unknown",
+    "bundle_id": "systo203.zenitevi.pp",
+    "author": "systo203",
+    "min_ios": "iOS 9.0 or later",
+    "Description": "ZeniTevi without Ads"
+  },
+  "LightiningSign": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/LightiningSign_1.0.0_Abood.ipa",
+    "version": "1.0.0",
+    "last_updated": "unknown",
+    "bundle_id": "com.dreamteam.ios",
+    "author": "LightiningSign Team",
+    "min_ios": "iOS 13.0 or later",
+    "Description": "Yet Another On Device Signing Utility"
+  },
+  "GBox": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/GBox_v2.9.8.ipa",
+    "version": "2.9.8",
+    "last_updated": "unknown",
+    "bundle_id": "com.nes.gbox",
+    "author": "GBox Team",
+    "min_ios": "iOS 10.0 or later",
+    "Description": "Yet Another On Device Signing Utility"
+  },
+  "BoarSign": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/BoarSign_v1.2_InstaTechHD.ipa",
+    "version": "1.2",
+    "last_updated": "unknown",
+    "bundle_id": "JK.AtWillSign",
+    "author": "Made in China",
+    "min_ios": "iOS 10.0 or later",
+    "Description": "Yet Another On Device Signing Utility"
+  }
 }
