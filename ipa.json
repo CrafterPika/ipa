@@ -565,5 +565,14 @@
     "author": "Made in China",
     "min_ios": "iOS 10.0 or later",
     "Description": "Yet Another On Device Signing Utility"
+  },
+  "Deezer++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Deezer++_8.11.0.ipa",
+    "version": "8.11.0",
+    "last_updated": "unknown",
+    "bundle_id": "com.deezer.client",
+    "author": "Deezer",
+    "min_ios": "iOS 10.0 or later",
+    "Description": "All Premium features enabled"
   }
 }
