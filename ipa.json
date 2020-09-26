@@ -89,15 +89,6 @@
     "min_ios": "iOS 9.3 or Later",
     "Description": "Torrent client for iOS."
   },
-  "iTorrent": {
-    "ipa": "https://github.com/XITRIX/iTorrent/releases/latest/download/iTorrent.ipa",
-    "version": "1.8.3",
-    "last_updated": "20.09.2020",
-    "bundle_id": "ru.nonamedude.iTorrent",
-    "author": "XITRIX",
-    "min_ios": "iOS 9.3 or Later",
-    "Description": "Torrent client for iOS."
-  },
   "PPSSPP": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/PPSSPP_v1.10.3-600-g8a9b4ab40.ipa",
     "version": "v1.10.3",
