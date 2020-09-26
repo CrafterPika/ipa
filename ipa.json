@@ -260,15 +260,6 @@
     "min_ios": "iOS 10.0 or Later",
     "Description": "Brandon's Amazing Flappy Bird Clone which is really close to the Original."
   },
-  "FlappyBird_v2": {
-    "ipa": "https://github.com/brandonplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
-    "version": "v3.8",
-    "last_updated": "20.08.2020",
-    "bundle_id": "org.brandonplank.flappybird",
-    "author": "Brandon Plank",
-    "min_ios": "iOS 10.0 or Later",
-    "Description": "Brandon's Amazing Flappy Bird Clone which is really close to the Original."
-  },
   "h3lix": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/h3lix-RC6.ipa",
     "version": "1.0-RC6",
