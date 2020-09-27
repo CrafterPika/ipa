@@ -551,9 +551,9 @@
   "MAME4iOS": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/MAME4iOS-2020.12.ipa",
     "version": "2020.12",
-    "last_updated": "unknown",
-    "bundle_id": "no idea",
-    "author": "idk",
+    "last_updated": "23.08.2020",
+    "bundle_id": "com.example.mame4ios",
+    "author": "yoshisuga",
     "min_ios": "iOS 12.0 or later",
     "Description": "MAME emu but for iOS"
   }
