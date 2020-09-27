@@ -547,5 +547,14 @@
     "author": "Deezer",
     "min_ios": "iOS 10.0 or later",
     "Description": "All Premium features enabled"
+  },
+  "MAME4iOS": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/MAME4iOS-2020.12.ipa",
+    "version": "2020.12",
+    "last_updated": "unknown",
+    "bundle_id": "no idea",
+    "author": "idk",
+    "min_ios": "iOS 12.0 or later",
+    "Description": "MAME emu but for iOS"
   }
 }
