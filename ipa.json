@@ -556,5 +556,14 @@
     "author": "yoshisuga",
     "min_ios": "iOS 12.0 or later",
     "Description": "MAME emu but for iOS"
+  },
+  "PlenixClash": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/PlenixClash_9.300.10.ipa",
+    "version": "9.300.10",
+    "last_updated": "unknown",
+    "bundle_id": "co.plenixclash.ios-s1",
+    "author": "Stavros",
+    "min_ios": "iOS 7.0 or later",
+    "Description": "The Clash Of Clans hack for iOS.\n\n Just to Clarify i am not a Genie who directly sees if the app is up-to-date, so pls ping CrafterPika and tell him the app is not up-to-date and i will try find the newest one ok?"
   }
 }
