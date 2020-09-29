@@ -574,5 +574,14 @@
     "author": "@ClassicEmoji",
     "min_ios": "iOS 13.0 or later",
     "Description": "A YouTube Tweak."
+  },
+  "Instagram_Rhino": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Instagram.v158.2.9.2.ipa",
+    "version": "2.9.2",
+    "last_updated": "12/09/2020",
+    "bundle_id": "com.Lema.Micheal.InstagramApp",
+    "author": "@ClassicEmoji",
+    "min_ios": "iOS 13.0 or later",
+    "Description": "A YouTube Tweak."
   }
 }
