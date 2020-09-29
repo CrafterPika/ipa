@@ -2,7 +2,7 @@
   "Spotify++": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Spotify++_v8.4.65.ipa",
     "version": "8.4.65",
-    "last_updated": "20.09.2020",
+    "last_updated": "29/09/2020",
     "bundle_id": "com.spotify.client",
     "author": "Julioverne",
     "min_ios": "iOS 9.0 or Later",
@@ -11,7 +11,7 @@
   "iNDS": {
     "ipa": "https://github.com/iNDS-Team/iNDS/releases/latest/download/iNDS.ipa",
     "version": "1.10.7",
-    "last_updated": "11.02.2020",
+    "last_updated": "11/02/2020",
     "bundle_id": "net.nerd.iNDS-true",
     "author": "iNDS-Team, WilliamLCobb",
     "min_ios": "iOS 9.0 or Later",
@@ -20,7 +20,7 @@
   "Delta": {
     "ipa": "https://github.com/rileytestut/Delta/releases/latest/download/delta.ipa",
     "version": "1.1.2",
-    "last_updated": "04.02.2020",
+    "last_updated": "04/02/2020",
     "bundle_id": "com.rileytestut.Delta",
     "author": "Riley Testut",
     "min_ios": "iOS 12.2 or Later",
@@ -56,7 +56,7 @@
   "Odyssey": {
     "ipa": "https://github.com/TheOdysseyJB/Odyssey/releases/download/v1.1.2/Odyssey-1.1.2.ipa",
     "version": "1.1.2",
-    "last_updated": "23.09.2020",
+    "last_updated": "23/09/2020",
     "bundle_id": "org.coolstar.odyssey",
     "author": "CoolStar and a few of his Buds",
     "min_ios": "iOS 13.0 - 13.5",
@@ -65,7 +65,7 @@
   "unc0ver": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/unc0ver_5.3.1.ipa",
     "version": "5.3.1",
-    "last_updated": "23.07.2020",
+    "last_updated": "23/07/2020",
     "bundle_id": "science.xnu.undecimus",
     "author": "pwn20wnd & SBinger",
     "min_ios": "iOS 11.0 - 13.5",
@@ -83,7 +83,7 @@
   "iTorrent": {
     "ipa": "https://github.com/XITRIX/iTorrent/releases/latest/download/iTorrent.ipa",
     "version": "1.8.3",
-    "last_updated": "20.09.2020",
+    "last_updated": "20/09/2020",
     "bundle_id": "ru.nonamedude.iTorrent",
     "author": "XITRIX",
     "min_ios": "iOS 9.3 or Later",
@@ -128,7 +128,7 @@
   "GBA4iOS": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/GBA4iOS_v2.1.1.ipa",
     "version": "2.1",
-    "last_updated": "Somewhere in 2017",
+    "last_updated": "2017",
     "bundle_id": "com.macbuildserver.GBA4iOS",
     "author": "Riley Testut",
     "min_ios": "iOS 9.0 or Later",
@@ -146,7 +146,7 @@
   "UTM": {
     "ipa": "https://github.com/utmapp/UTM/releases/latest/download/UTM.ipa",
     "version": "1.0",
-    "last_updated": "unknown",
+    "last_updated": "19/07/2020",
     "bundle_id": "com.osy86.UTM",
     "author": "Osy86",
     "min_ios": "iOS 11.0 or Later",
@@ -191,7 +191,7 @@
   "T-Tinder++": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/T-Tinder++.ipa?raw=true",
     "version": "11.19.0",
-    "last_updated": "unknown",
+    "last_updated": "17/08/2020",
     "bundle_id": "dev.casp.t-tinder",
     "author": "CaspDev",
     "min_ios": "iOS 13.0 or Later",
@@ -200,7 +200,7 @@
   "DiscordBlack": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/DiscordBlack.ipa?raw=true",
     "version": "35.1",
-    "last_updated": "unknown",
+    "last_updated": "30/08/2020",
     "bundle_id": "dev.casp.discordblackout",
     "author": "CaspDev",
     "min_ios": "iOS 13.0 or Later",
@@ -209,7 +209,7 @@
   "CDCloud++": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/CDCloud++.ipa?raw=true",
     "version": "5.102.0",
-    "last_updated": "unknown",
+    "last_updated": "17/08/2020",
     "bundle_id": "dev.casp.cdcloud",
     "author": "CaspDev",
     "min_ios": "iOS 10.0 or Later",
@@ -218,7 +218,7 @@
   "All4++": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/All4++.ipa?raw=true",
     "version": "9.3.2",
-    "last_updated": "unknown",
+    "last_updated": "30/08/2020",
     "bundle_id": "uk.co.channel4.ios.4od",
     "author": "CaspDev",
     "min_ios": "iOS 13.0 or Later",
@@ -254,7 +254,7 @@
   "FlappyBird_v2": {
     "ipa": "https://github.com/brandonplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
     "version": "v3.8",
-    "last_updated": "20.08.2020",
+    "last_updated": "20/08/2020",
     "bundle_id": "org.brandonplank.flappybird",
     "author": "Brandon Plank",
     "min_ios": "iOS 10.0 or Later",
@@ -308,7 +308,7 @@
   "iSH": {
     "ipa": "https://github.com/ish-app/ish/releases/latest/download/iSH.ipa",
     "version": "Build-75",
-    "last_updated": "25.09.2020",
+    "last_updated": "25/09/2020",
     "bundle_id": "app.ish.iSH",
     "author": "Mainly maintained by tbodt",
     "min_ios": "iOS 11.0 or later",
@@ -452,7 +452,7 @@
   "ZipAppLite++": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/ZipAppLite++.ipa",
     "version": "4.0.2",
-    "last_updated": "unknown",
+    "last_updated": "10/09/2020",
     "bundle_id": "net.langui.zipappfree",
     "author": "CrafterPika",
     "min_ios": "iOS 12.2 or later",
@@ -497,7 +497,7 @@
   "AppCake++2": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/AppCake++_v0.5a.ipa",
     "version": "0.5a",
-    "last_updated": "unknown",
+    "last_updated": "20/09/2020",
     "bundle_id": "io.crafterpika.appcakep2",
     "author": "CrafterPika",
     "min_ios": "iOS 11.0 or later",
@@ -551,7 +551,7 @@
   "MAME4iOS": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/MAME4iOS-2020.12.ipa",
     "version": "2020.12",
-    "last_updated": "23.08.2020",
+    "last_updated": "23/08/2020",
     "bundle_id": "com.example.mame4ios",
     "author": "yoshisuga",
     "min_ios": "iOS 12.0 or later",
