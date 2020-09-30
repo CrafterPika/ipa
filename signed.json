@@ -1,8 +1,13 @@
 {
-  "EonHub": "Revoked",
-  "AppValley": "Revoked",
-  "AppCake": "Revoked",
-  "jailbreaks_app": "Revoked",
-  "Crimson": "Revoked",
-  "unc0ver_direct": "Revoked :("
+  "Stores": {
+    "EonHub": "Revoked",
+    "AppValley": "Revoked",
+    "AppCake": "Revoked",
+    "jailbreaks_app": "Revoked",
+    "Crimson": "Revoked",
+  },
+  "Jailbreaks": {
+    "unc0ver": "Revoked",
+    "Odyssey": "Revoked"
+  }
 }
