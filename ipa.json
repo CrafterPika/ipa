@@ -658,5 +658,15 @@
     "min_ios": "iOS 13.2 or later",
     "Description": "Bad Game! Why would you play it?!?!?",
     "size": "294MB"
+  },
+  "Pixel_Pokemon": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/pixel_pokemon.ipa",
+    "version": "1.0",
+    "last_updated": "unknown",
+    "bundle_id": "com.ksnbdl.pixel.ios.en",
+    "author": "Zephrus",
+    "min_ios": "iOS 11.0 or later",
+    "Description": "\nPixel Pokemon is an adventure game that brings you right back to the Pocket Monsters world!\n\nThe game is based on the popular Pocket Monster anime and games. It also provides an IDLE function that enables the player to develop Pixelmons anytime and anywhere.\n\nIn addition to the game's rich content of Pixelmon characters, skills, species power boost for legendary Pixelmons, to make your the game more complex and bring back your childhood memories!\n\nWhat are your waiting for!? Download the Game.",
+    "size": "345MB"
   }
 }
