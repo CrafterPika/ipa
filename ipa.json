@@ -6,7 +6,8 @@
     "bundle_id": "com.spotify.client",
     "author": "Julioverne & atebitsy",
     "min_ios": "iOS 9.0 or Later",
-    "Description": "Spotilife and Sposify in one Pack! Enjoy a real great Spotify Experience."
+    "Description": "Spotilife and Sposify in one Pack! Enjoy a real great Spotify Experience.",
+    "size": "32MB"
   },
   "iNDS": {
     "ipa": "https://github.com/iNDS-Team/iNDS/releases/latest/download/iNDS.ipa",
@@ -15,7 +16,8 @@
     "bundle_id": "net.nerd.iNDS-true",
     "author": "iNDS-Team, WilliamLCobb",
     "min_ios": "iOS 9.0 or Later",
-    "Description": "Revival of the Nintendo DS emulator for iOS"
+    "Description": "Revival of the Nintendo DS emulator for iOS",
+    "size": "8MB"
   },
   "Delta": {
     "ipa": "https://github.com/rileytestut/Delta/releases/latest/download/delta.ipa",
@@ -24,7 +26,8 @@
     "bundle_id": "com.rileytestut.Delta",
     "author": "Riley Testut",
     "min_ios": "iOS 12.2 or Later",
-    "Description": "The Successor to GBA4iOS."
+    "Description": "The Successor to GBA4iOS.",
+    "size": "16MB"
   },
   "EveryCord": {
     "ipa": "http://everycord.net/EveryCord_Dist.ipa",
@@ -33,7 +36,8 @@
     "bundle_id": "com.adatech.EveryCord",
     "author": "iRec Team",
     "min_ios": "iOS 10.0 or Later",
-    "Description": "Record your Screen, but with Quality!"
+    "Description": "Record your Screen, but with Quality!",
+    "size": "16MB"
   },
   "CrackTool3": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/CrackTools3_3.0-beta11.ipa",
@@ -42,7 +46,8 @@
     "bundle_id": "com.julioverne.cracktool3",
     "author": "Julioverne",
     "min_ios": "iOS 11.0 or Later",
-    "Description": "Crack Tweaks with one click."
+    "Description": "Crack Tweaks with one click.",
+    "size": "86KB"
   },
   "RetroArch": {
     "ipa": "https://buildbot.libretro.com/stable/1.9.0/apple/ios/RetroArch.ipa",
@@ -51,7 +56,8 @@
     "bundle_id": "com.libretro.dist.ios.RetroArch",
     "author": "LibRetro Team",
     "min_ios": "iOS 11.0 or Later",
-    "Description": "The All-In-One Retro Emulator"
+    "Description": "The All-In-One Retro Emulator",
+    "size": "244MB"
   },
   "Odyssey": {
     "ipa": "https://github.com/TheOdysseyJB/Odyssey/releases/download/v1.1.2/Odyssey-1.1.2.ipa",
@@ -60,7 +66,8 @@
     "bundle_id": "org.coolstar.odyssey",
     "author": "CoolStar and a few of his Buds",
     "min_ios": "iOS 13.0 - 13.5",
-    "Description": "A new Jailbreak Era."
+    "Description": "A new Jailbreak Era.",
+    "size": "25MB"
   },
   "unc0ver": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/unc0ver_5.3.1.ipa",
@@ -69,7 +76,8 @@
     "bundle_id": "science.xnu.undecimus",
     "author": "pwn20wnd & SBinger",
     "min_ios": "iOS 11.0 - 13.5",
-    "Description": "The most advanced jail​break tool."
+    "Description": "The most advanced jailbreak tool.",
+    "size": "41MB"
   },
   "Chimera": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Chimera_v1.4.0.ipa",
@@ -78,7 +86,8 @@
     "bundle_id": "com.electrateam.chimera",
     "author": "Electra Team",
     "min_ios": "iOS 12.0 - 12.4",
-    "Description": "Your device, your way."
+    "Description": "Your device, your way.",
+    "size": "87MB"
   },
   "iTorrent": {
     "ipa": "https://github.com/XITRIX/iTorrent/releases/latest/download/iTorrent.ipa",
@@ -87,7 +96,8 @@
     "bundle_id": "ru.nonamedude.iTorrent",
     "author": "XITRIX",
     "min_ios": "iOS 9.3 or Later",
-    "Description": "Torrent client for iOS."
+    "Description": "Torrent client for iOS.",
+    "size": "20MB"
   },
   "PPSSPP": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/PPSSPP_v1.10.3-600-g8a9b4ab40.ipa",
@@ -96,7 +106,8 @@
     "bundle_id": "org.ppsspp.ppsspp",
     "author": "PPSSPP Team",
     "min_ios": "iOS 8.0 or Later",
-    "Description": "PSP emulator for iOS"
+    "Description": "PSP emulator for iOS",
+    "size": "17MB"
   },
   "FlappyBird_v1": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FlappyBird_v1.2.ipa",
@@ -105,7 +116,8 @@
     "bundle_id": "com.dotgears.flap",
     "author": ".GEARS",
     "min_ios": "iOS 6.0 - 10.3.4",
-    "Description": "The original FlappyBird."
+    "Description": "The original FlappyBird.",
+    "size": "1MB"
   },
   "Provenance": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Provenance_1.5_beta.ipa",
@@ -114,7 +126,8 @@
     "bundle_id": "net.hollr.Provenance4",
     "author": "Provenance Team",
     "min_ios": "iOS 8.0 or Later",
-    "Description": "Another Multi Emulator"
+    "Description": "Another Multi Emulator",
+    "size": "45MB"
   },
   "NDS4iOS": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/nds4ios.ipa",
@@ -123,7 +136,8 @@
     "bundle_id": "org.infinidev.nds4ios",
     "author": "infinidev",
     "min_ios": "iOS 5.0 or Later",
-    "Description": "The original NDS emulator for iOS"
+    "Description": "The original NDS emulator for iOS",
+    "size": "3MB"
   },
   "GBA4iOS": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/GBA4iOS_v2.1.1.ipa",
@@ -132,7 +146,8 @@
     "bundle_id": "com.macbuildserver.GBA4iOS",
     "author": "Riley Testut",
     "min_ios": "iOS 9.0 or Later",
-    "Description": ":purple_heart:"
+    "Description": ":purple_heart:",
+    "size": "23MB"
   },
   "DolphiniOS": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/DolphiniOS-NJB-3.0.0-257.ipa",
@@ -141,7 +156,8 @@
     "bundle_id": "me.oatmealdome.DolphiniOS-njb",
     "author": "OatmealDome",
     "min_ios": "iOS 12.0 or Later",
-    "Description": "Wii and GC Emulator"
+    "Description": "Wii and GC Emulator",
+    "size": "10MB"
   },
   "UTM": {
     "ipa": "https://github.com/utmapp/UTM/releases/latest/download/UTM.ipa",
@@ -150,7 +166,8 @@
     "bundle_id": "com.osy86.UTM",
     "author": "Osy86",
     "min_ios": "iOS 11.0 or Later",
-    "Description": "Run VMs on iOS"
+    "Description": "Run VMs on iOS",
+    "size": "125MB"
   },
   "Twitter_Owl": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Twitter.Owl.v8.35.1.1.3.ipa",
@@ -159,7 +176,8 @@
     "bundle_id": "com.atebits.Tweetie2",
     "author": "@ClassicEmoji",
     "min_ios": "iOS 13.0 or Later",
-    "Description": "Mod for Twitter"
+    "Description": "Mod for Twitter",
+    "size": "43MB"
   },
   "insta_rocket": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/me.alfhaily.rocket_v3.7.3.ipa",
@@ -168,7 +186,8 @@
     "bundle_id": "com.burbn.instagram",
     "author": "Majd Alfhaily",
     "min_ios": "iOS 11.0 or Later",
-    "Description": "Mod for Instagram"
+    "Description": "Mod for Instagram",
+    "size": "65MB"
   },
   "Facebook_Wolf": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa2/Facebook.Wolf.v287.1.5.ipa",
@@ -177,7 +196,8 @@
     "bundle_id": "com.lema.facebookApp",
     "author": "@ClassicEmoji",
     "min_ios": "iOS 12.0 or Later",
-    "Description": "Mod for Facebook"
+    "Description": "Mod for Facebook",
+    "size": "121MB"
   },
   "Cercube": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/cercube_5.2.3.ipa",
@@ -186,7 +206,8 @@
     "bundle_id": "com.google.ios.youtube",
     "author": "Majd Alfhaily",
     "min_ios": "iOS 11.0 or Later",
-    "Description": "The ultimade YouTube Tweak"
+    "Description": "The ultimade YouTube Tweak",
+    "size": "91MB"
   },
   "T-Tinder++": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/T-Tinder++.ipa?raw=true",
@@ -195,7 +216,8 @@
     "bundle_id": "dev.casp.t-tinder",
     "author": "CaspDev",
     "min_ios": "iOS 13.0 or Later",
-    "Description": "Another Tweak for Tinder"
+    "Description": "Another Tweak for Tinder",
+    "size": "42MB"
   },
   "DiscordBlack": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/DiscordBlack.ipa?raw=true",
@@ -204,7 +226,8 @@
     "bundle_id": "dev.casp.discordblackout",
     "author": "CaspDev",
     "min_ios": "iOS 13.0 or Later",
-    "Description": "True darkmode for Discord."
+    "Description": "True darkmode for Discord.",
+    "size": "42MB"
   },
   "CDCloud++": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/CDCloud++.ipa?raw=true",
@@ -213,7 +236,8 @@
     "bundle_id": "dev.casp.cdcloud",
     "author": "CaspDev",
     "min_ios": "iOS 10.0 or Later",
-    "Description": "SoundCloud Tweak."
+    "Description": "SoundCloud Tweak.",
+    "size": "32MB"
   },
   "All4++": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/All4++.ipa?raw=true",
@@ -222,7 +246,8 @@
     "bundle_id": "uk.co.channel4.ios.4od",
     "author": "CaspDev",
     "min_ios": "iOS 13.0 or Later",
-    "Description": "All4 Tweak."
+    "Description": "All4 Tweak.",
+    "size": "31MB"
   },
   "TikTok_Unicorn": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/TikTok.Unicorn.v4.5.ipa",
@@ -231,7 +256,8 @@
     "bundle_id": "com.zhiliaoapp.musically",
     "author": "@ClassicEmoji",
     "min_ios": "iOS 12.0 or Later",
-    "Description": "Amazing TikTok Tweak"
+    "Description": "Amazing TikTok Tweak",
+    "size": "71MB"
   },
   "Twitch++": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Twitch-plus-v1.1.ipa",
@@ -240,7 +266,8 @@
     "bundle_id": "tv.twitch",
     "author": "@ClassicEmoji",
     "min_ios": "iOS 13.0 or Later",
-    "Description": "Tweak for Twitch."
+    "Description": "Tweak for Twitch.",
+    "size": "71MB"
   },
   "Reddit_Lizard": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Reddit.Lizard.1.2.ipa",
@@ -249,7 +276,8 @@
     "bundle_id": "com.reddit.RedditSocial",
     "author": "@ClassicEmoji",
     "min_ios": "iOS 13.0 or Later",
-    "Description": "Tweak for Reddit."
+    "Description": "Tweak for Reddit.",
+    "size": "46MB"
   },
   "FlappyBird_v2": {
     "ipa": "https://github.com/brandonplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
@@ -258,7 +286,8 @@
     "bundle_id": "org.brandonplank.flappybird",
     "author": "Brandon Plank",
     "min_ios": "iOS 10.0 or Later",
-    "Description": "Brandon's Amazing Flappy Bird Clone which is really close to the Original."
+    "Description": "Brandon's Amazing Flappy Bird Clone which is really close to the Original.",
+    "size": "96MB"
   },
   "h3lix": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/h3lix-RC6.ipa",
@@ -267,7 +296,8 @@
     "bundle_id": "org.tihmstar.h3lix",
     "author": "Thimstar",
     "min_ios": "iOS 10.0 - 10.3.4",
-    "Description": "iOS 10.x JB for 32-bit devices"
+    "Description": "iOS 10.x JB for 32-bit devices",
+    "size": "8MB"
   },
   "doubleh3lix": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/doubleH3lix-RC8.ipa",
@@ -276,7 +306,8 @@
     "bundle_id": "org.tihmstar.doubleh3lix",
     "author": "Thimstar",
     "min_ios": "iOS 10.0 - 10.3.3",
-    "Description": "iOS 10.x JB for 64-bit (A7-A9) devices"
+    "Description": "iOS 10.x JB for 64-bit (A7-A9) devices",
+    "size": "10MB"
   },
   "etasonjb": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/etasonJB-RC5.ipa",
@@ -285,7 +316,8 @@
     "bundle_id": "org.tihmstar.etasonjb",
     "author": "Thimstar",
     "min_ios": "iOS 8.4.1",
-    "Description": "untethered iOS 8.4.1 jb"
+    "Description": "untethered iOS 8.4.1 jb",
+    "size": "7MB"
   },
   "meridian": {
     "ipa": "https://github.com/PsychoTea/MeridianJB/releases/download/v0.9-007/Meridian-v0.9-007.ipa",
@@ -294,7 +326,8 @@
     "bundle_id": "zone.sparkes.MeridianJB2",
     "author": "Sparkey",
     "min_ios": "iOS 10.0 - 10.3.3",
-    "Description": "an A7-A10 iOS 10.x JB"
+    "Description": "an A7-A10 iOS 10.x JB",
+    "size": "10MB"
   },
   "phoenix": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Phoenix5.ipa",
@@ -303,7 +336,8 @@
     "bundle_id": "supplies.wall.phoenix",
     "author": "Phoenix Team",
     "min_ios": "iOS 9.3.4 - 9.3.5",
-    "Description": "an iOS 9 JB"
+    "Description": "an iOS 9 JB",
+    "size": "25MB"
   },
   "iSH": {
     "ipa": "https://github.com/ish-app/ish/releases/latest/download/iSH.ipa",
@@ -312,7 +346,8 @@
     "bundle_id": "app.ish.iSH",
     "author": "Mainly maintained by tbodt",
     "min_ios": "iOS 11.0 or later",
-    "Description": "Linux shell on no-jb iOS."
+    "Description": "Linux shell on no-jb iOS.",
+    "size": "3MB"
   },
   "Electra": {
     "ipa": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-1.3.2.ipa",
@@ -321,7 +356,8 @@
     "bundle_id": "org.coolstar.electra1141",
     "author": "Electra Team",
     "min_ios": "iOS 11.0 - 11.4.1",
-    "Description": "Original iOS 11.x Jailbreak."
+    "Description": "Original iOS 11.x Jailbreak.",
+    "size": "24MB"
   },
   "Houdini": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/houdini_b2r1_official.ipa",
@@ -330,7 +366,8 @@
     "bundle_id": "com.cheesecakeufo.houdini",
     "author": "cheesecakeufo",
     "min_ios": "iOS 10.0 - 11.1.2",
-    "Description": "Sort of Jailbreak, allows you to customize a few spesific things."
+    "Description": "Sort of Jailbreak, allows you to customize a few spesific things.",
+    "size": "1MB"
   },
   "iSSB": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/iSSB.ipa",
@@ -339,7 +376,8 @@
     "bundle_id": "net.hollr.issb",
     "author": "idk even that",
     "min_ios": "iOS 9.0 later",
-    "Description": "(Very) Bad clone of Super Smash Bros"
+    "Description": "(Very) Bad clone of Super Smash Bros",
+    "size": "18MB"
   },
   "Watusi": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/net.whatsapp.WhatsApp_v2.20.90_watusi_1.3.7_stalky_4.1.4.ipa",
@@ -348,7 +386,8 @@
     "bundle_id": "net.whatsapp.WhatsApp",
     "author": "Fouad Raheb",
     "min_ios": "iOS 9.0 later",
-    "Description": "Amazing Whatsapp Tweak"
+    "Description": "Amazing Whatsapp Tweak",
+    "size": "95MB"
   },
   "BatteryLife": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/BatteryLife.ipa",
@@ -357,7 +396,8 @@
     "bundle_id": "com.rbt.batteryLifeApp",
     "author": "unknown",
     "min_ios": "iOS 6.0 later",
-    "Description": "Don't really understand the usage."
+    "Description": "Don't really understand the usage.",
+    "size": "1MB"
   },
   "FileBrowser": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FileBrowser_v1.2.ipa",
@@ -366,7 +406,8 @@
     "bundle_id": "com.highcaffeinecontent.Files",
     "author": "unknown",
     "min_ios": "iOS 8.0 later",
-    "Description": "Some kind of FileBrowser."
+    "Description": "Some kind of FileBrowser.",
+    "size": "153KB"
   },
   "iPoGo": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/ipogo-1.6.6.ipa",
@@ -375,7 +416,8 @@
     "bundle_id": "com.nianticlabs.pokemongo",
     "author": "iPoGo Team",
     "min_ios": "iOS 10.0 later",
-    "Description": "Pokemon Go Tweak."
+    "Description": "Pokemon Go Tweak.",
+    "size": "106MB"
   },
   "Play!": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Play.ipa",
@@ -384,7 +426,8 @@
     "bundle_id": "com.virtualapplications.play",
     "author": "Play Team",
     "min_ios": "iOS 9.0 later",
-    "Description": "PS2 Emulator for iOS 10 and below"
+    "Description": "PS2 Emulator for iOS 10 and below",
+    "size": "1MB"
   },
   "GC4iOS": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/GC4iOS.v0.13.ipa",
@@ -393,7 +436,8 @@
     "bundle_id": "com.kabiroberai.GC4iOS",
     "author": "WilliamLCobb",
     "min_ios": "iOS 8.1 later",
-    "Description": "Alternate GC & Wii Emu for iOS 10 and below"
+    "Description": "Alternate GC & Wii Emu for iOS 10 and below",
+    "size": "2MB"
   },
   "cercube5noads": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/cercube5noads.ipa",
@@ -402,7 +446,8 @@
     "bundle_id": "com.google.io.youtube",
     "author": "Majd Alfhaily",
     "min_ios": "iOS 11.0 later",
-    "Description": "Cercube 5 but without ads"
+    "Description": "Cercube 5 but without ads",
+    "size": "98MB"
   },
   "AppCake++": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/appcakepp_v0.3a.ipa",
@@ -411,7 +456,8 @@
     "bundle_id": "com.crafterpika.appcake",
     "author": "CrafterPika",
     "min_ios": "iOS 11.0 later",
-    "Description": "Removes ads in AppCake"
+    "Description": "Removes ads in AppCake",
+    "size": "98MB"
   },
   "FilzaEscaped13": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FilzaEscaped13.ipa",
@@ -420,7 +466,8 @@
     "bundle_id": "com.dry05-filzaescaped11-12",
     "author": "@AppleDry05",
     "min_ios": "iOS 12.0 later",
-    "Description": "Filza no-jb for iOS 12.0-13.4.1"
+    "Description": "Filza no-jb for iOS 12.0-13.4.1",
+    "size": "13MB"
   },
   "iSH_RW": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/iSH_RW.ipa",
@@ -429,7 +476,8 @@
     "bundle_id": "com.jankais3r.iSH",
     "author": "iSH Team",
     "min_ios": "iOS 11.0 later",
-    "Description": "iSH with Physics Paper."
+    "Description": "iSH with Physics Paper.",
+    "size": "3MB"
   },
   "DiOS_Patreon": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/DiOS_Patreon_v96.ipa",
@@ -438,7 +486,8 @@
     "bundle_id": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
     "author": "OatmealDome",
     "min_ios": "iOS 12.0 - 13.7",
-    "Description": "DolphiniOS for iOS 13.7 and below for no-jb"
+    "Description": "DolphiniOS for iOS 13.7 and below for no-jb",
+    "size": "76MB"
   },
   "AmongUS_hack": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Among.Us.Hack.No.Jailbreak.Cheats.2020.9.9.Hacked.IPA.by.iOSGods.com.ipa",
@@ -447,7 +496,8 @@
     "bundle_id": "com.innersloth.amongus",
     "author": "iOSGods",
     "min_ios": "iOS 8.0 or later",
-    "Description": "A among us hack"
+    "Description": "A among us hack",
+    "size": "57MB"
   },
   "ZipAppLite++": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/ZipAppLite++.ipa",
@@ -456,7 +506,8 @@
     "bundle_id": "net.langui.zipappfree",
     "author": "CrafterPika",
     "min_ios": "iOS 12.2 or later",
-    "Description": "Ads Removed"
+    "Description": "Ads Removed",
+    "size": "13MB"
   },
   "ESign": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/esign_1.1.3_co.ipa",
@@ -465,7 +516,8 @@
     "bundle_id": "xyz.esign.YYYSign",
     "author": "E-Sign utility",
     "min_ios": "iOS 11.0 or later",
-    "Description": "On-Device Signing Utility"
+    "Description": "On-Device Signing Utility",
+    "size": "2MB"
   },
   "RootlessJB4": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/rootlessJB4.ipa",
@@ -474,7 +526,8 @@
     "bundle_id": "com.jakeashacks.iSuperSU",
     "author": "JakeasHacks and Brandon Plank",
     "min_ios": "iOS 12.0 - 12.4.8",
-    "Description": "Rootless Jailbreak"
+    "Description": "Rootless Jailbreak",
+    "size": "36MB"
   },
   "Duolingo++": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Duolingo_6.62.0_Modded_IPA_.ipa",
@@ -483,7 +536,8 @@
     "bundle_id": "com.duolingo.DuolingoMobile",
     "author": "unknown",
     "min_ios": "iOS 10.0 or later",
-    "Description": "Duolingo Hack"
+    "Description": "Duolingo Hack",
+    "size": "34MB"
   },
   "SpotUlt": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/SpotUlt++_0.9.2-NamePatched.ipa",
@@ -492,7 +546,8 @@
     "bundle_id": "syto203.spotultpp",
     "author": "syto203",
     "min_ios": "iOS 10.0 or later",
-    "Description": "The Ultimate Spotify Hack"
+    "Description": "The Ultimate Spotify Hack",
+    "size": "39MB"
   },
   "AppCake++2": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/AppCake++_v0.5a.ipa",
@@ -501,7 +556,8 @@
     "bundle_id": "io.crafterpika.appcakep2",
     "author": "CrafterPika",
     "min_ios": "iOS 11.0 or later",
-    "Description": "AppCake++ for AppCake 7.1.0"
+    "Description": "AppCake++ for AppCake 7.1.0",
+    "size": "16MB"
   },
   "ZeniTevi++": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Zinitevi++.ipa",
@@ -510,7 +566,8 @@
     "bundle_id": "systo203.zenitevi.pp",
     "author": "systo203",
     "min_ios": "iOS 9.0 or later",
-    "Description": "ZeniTevi without Ads"
+    "Description": "ZeniTevi without Ads",
+    "size": "13MB"
   },
   "LightiningSign": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/LightiningSign_1.0.0_Abood.ipa",
@@ -519,7 +576,8 @@
     "bundle_id": "com.dreamteam.ios",
     "author": "LightiningSign Team",
     "min_ios": "iOS 13.0 or later",
-    "Description": "Yet Another On Device Signing Utility"
+    "Description": "Yet Another On Device Signing Utility",
+    "size": "6MB"
   },
   "GBox": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/GBox_v2.9.8.ipa",
@@ -528,7 +586,8 @@
     "bundle_id": "com.nes.gbox",
     "author": "GBox Team",
     "min_ios": "iOS 10.0 or later",
-    "Description": "Yet Another On Device Signing Utility"
+    "Description": "Yet Another On Device Signing Utility",
+    "size": "8MB"
   },
   "BoarSign": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/BoarSign_v1.2_InstaTechHD.ipa",
@@ -537,7 +596,8 @@
     "bundle_id": "JK.AtWillSign",
     "author": "Made in China",
     "min_ios": "iOS 10.0 or later",
-    "Description": "Yet Another On Device Signing Utility"
+    "Description": "Yet Another On Device Signing Utility",
+    "size": "2MB"
   },
   "Deezer++": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Deezer++_8.11.0.ipa",
@@ -546,7 +606,8 @@
     "bundle_id": "com.deezer.client",
     "author": "Deezer",
     "min_ios": "iOS 10.0 or later",
-    "Description": "All Premium features enabled"
+    "Description": "All Premium features enabled",
+    "size": "67MB"
   },
   "MAME4iOS": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/MAME4iOS-2020.12.ipa",
@@ -555,7 +616,8 @@
     "bundle_id": "com.example.mame4ios",
     "author": "yoshisuga",
     "min_ios": "iOS 12.0 or later",
-    "Description": "MAME emu but for iOS"
+    "Description": "MAME emu but for iOS",
+    "size": "27MB"
   },
   "PlenixClash": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/PlenixClash_9.300.10.ipa",
@@ -564,7 +626,8 @@
     "bundle_id": "co.plenixclash.ios-s1",
     "author": "Stavros",
     "min_ios": "iOS 7.0 or later",
-    "Description": "The Clash Of Clans hack for iOS."
+    "Description": "The Clash Of Clans hack for iOS.",
+    "size": "107MB"
   },
   "YouTube_Bat": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Youtube.Bat.v15.36.2.1.2.ipa",
@@ -573,7 +636,8 @@
     "bundle_id": "com.google.ios.youtube",
     "author": "@ClassicEmoji",
     "min_ios": "iOS 13.0 or later",
-    "Description": "A YouTube Tweak."
+    "Description": "A YouTube Tweak.",
+    "size": "64MB"
   },
   "Instagram_Rhino": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Instagram.v158.2.9.2.ipa",
@@ -582,7 +646,8 @@
     "bundle_id": "com.Lema.Micheal.InstagramApp",
     "author": "@ClassicEmoji",
     "min_ios": "iOS 13.0 or later",
-    "Description": "A YouTube Tweak."
+    "Description": "A YouTube Tweak.",
+    "size": "55MB"
   },
   "Fortnite": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Fortnite.ipa",
@@ -591,6 +656,7 @@
     "bundle_id": "com.epicgames.fortnite",
     "author": "Epic Games",
     "min_ios": "iOS 13.2 or later",
-    "Description": "Bad Game! Why would you play it?!?!?"
+    "Description": "Bad Game! Why would you play it?!?!?",
+    "size": "294MB"
   }
 }
