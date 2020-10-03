@@ -1,9 +1,9 @@
 {
   "Stores": {
-    "EonHub": "Revoked",
+    "EonHub": "Signed! https://app.eonhubapp.com",
     "AppValley": "Revoked",
-    "AppCake": "Revoked",
-    "jailbreaks_app": "Revoked",
+    "AppCake": "Signed! https://iphonecake.com/app",
+    "jailbreaks_app": "Signed! https://jailbreaks.app",
     "Crimson": "Revoked"
   },
   "Jailbreaks": {
