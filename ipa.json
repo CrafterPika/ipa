@@ -673,7 +673,7 @@
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Spotilife_8.5.78.ipa",
     "version": "8.5.78",
     "last_updated": "05/10/2020",
-    "bundle_id": "com.ksnbdl.pixel.ios.en",
+    "bundle_id": "com.spotify.client",
     "author": "juilioverne",
     "min_ios": "iOS 12.2 or later",
     "Description": "Spotilife (Aka. Spotify++) on the latest Spotify",
