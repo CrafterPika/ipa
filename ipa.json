@@ -668,5 +668,15 @@
     "min_ios": "iOS 11.0 or later",
     "Description": "\nPixel Pokemon is an adventure game that brings you right back to the Pocket Monsters world!\n\nThe game is based on the popular Pocket Monster anime and games. It also provides an IDLE function that enables the player to develop Pixelmons anytime and anywhere.\n\nIn addition to the game's rich content of Pixelmon characters, skills, species power boost for legendary Pixelmons, to make your the game more complex and bring back your childhood memories!\n\nWhat are your waiting for!? Download the Game.",
     "size": "345MB"
+  },
+  "Spotilife": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Spotilife_8.5.78.ipa",
+    "version": "8.5.78",
+    "last_updated": "05/10/2020",
+    "bundle_id": "com.ksnbdl.pixel.ios.en",
+    "author": "juilioverne",
+    "min_ios": "iOS 12.2 or later",
+    "Description": "Spotilife (Aka. Spotify++) on the latest Spotify",
+    "size": "39MB"
   }
 }
