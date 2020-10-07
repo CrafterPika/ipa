@@ -670,8 +670,8 @@
     "size": "345MB"
   },
   "Spotilife": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Spotilife_8.5.78.ipa",
-    "version": "8.5.78",
+    "ipa": "hhttps://github.com/CrafterPika/ipa/releases/download/Ipa2/Spotilife_1.3a_8.5.78.ipa",
+    "version": "8.5.78 (103A)",
     "last_updated": "05/10/2020",
     "bundle_id": "com.spotify.client",
     "author": "juilioverne",
