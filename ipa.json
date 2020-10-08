@@ -200,14 +200,14 @@
     "size": "121MB"
   },
   "Cercube": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/cercube_5.2.3.ipa",
-    "version": "5.2.3",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/cercube_v5.2.4.ipa",
+    "version": "5.2.4",
     "last_updated": "unknown",
     "bundle_id": "com.google.ios.youtube",
     "author": "Majd Alfhaily",
     "min_ios": "iOS 11.0 or Later",
     "Description": "The ultimade YouTube Tweak",
-    "size": "91MB"
+    "size": "93MB"
   },
   "T-Tinder++": {
     "ipa": "https://github.com/caspd3v/imods/blob/master/T-Tinder++.ipa?raw=true",
