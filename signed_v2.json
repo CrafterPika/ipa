@@ -1,13 +1,13 @@
 {
   "Stores": {
-    "EonHub": "Signed! https://app.eonhubapp.com",
-    "AppValley": "Signed! https://app.app-valley.vip",
-    "AppCake": "Signed! https://iphonecake.com/app",
+    "EonHub": "Revoked",
+    "AppValley": "Revoked",
+    "AppCake": "Revoked",
     "Crimson": "Revoked"
   },
   "Jailbreaks": {
-    "unc0ver": "https://tinyurl.com/unc0ver-direct-download",
-    "Odyssey": "https://tinyurl.com/odyssey-direct-download",
-    "rootlessjb4": "https://tinyurl.com/rootlessjb4-direct-download"
+    "unc0ver": "https://tinyurl.com/unc0ver-direct-download **(Revoked)**",
+    "Odyssey": "https://tinyurl.com/odyssey-direct-download **(Revoked)**",
+    "rootlessjb4": "https://tinyurl.com/rootlessjb4-direct-download **(Revoked)**"
   }
 }
