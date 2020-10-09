@@ -410,8 +410,8 @@
     "size": "153KB"
   },
   "iPoGo": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/ipogo-1.6.6.ipa",
-    "version": "1.6.6",
+    "ipa": "https://ipogo.app/download/ipogo-1.7.1.ipa",
+    "version": "1.7.1",
     "last_updated": "unknown",
     "bundle_id": "com.nianticlabs.pokemongo",
     "author": "iPoGo Team",
