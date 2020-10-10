@@ -9,16 +9,6 @@
     "Description": "Spotilife and Sposify in one Pack! Enjoy a real great Spotify Experience.",
     "size": "32MB"
   },
-  "iFap": {
-    "ipa": "https://github.com/DwifteJB/repo/raw/master/iFap.ipa",
-    "version": "1.0",
-    "last_updated": "Not Found",
-    "bundle_id": "com.icraze.ifap",
-    "author": "iCraze",
-    "min_ios": "iOS 9.0 or Later",
-    "Description": "Thanks iCraze for letting Noob do stuff",
-    "size": "669kb"
-  },
   "iNDS": {
     "ipa": "https://github.com/iNDS-Team/iNDS/releases/latest/download/iNDS.ipa",
     "version": "1.10.7",
