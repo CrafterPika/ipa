@@ -12,12 +12,12 @@
   "iFap": {
     "ipa": "https://github.com/DwifteJB/repo/raw/master/iFap.ipa",
     "version": "1.0",
-    "last_updated": "N/A",
+    "last_updated": "Not Found",
     "bundle_id": "com.icraze.ifap",
     "author": "iCraze",
-    "min_ios": "13"
-    "Description": "Thanks iCraze",
-    "size": "668kb"
+    "min_ios": "iOS 9.0 or Later",
+    "Description": "Thanks iCraze for letting Noob do stuff",
+    "size": "669kb"
   },
   "iNDS": {
     "ipa": "https://github.com/iNDS-Team/iNDS/releases/latest/download/iNDS.ipa",
