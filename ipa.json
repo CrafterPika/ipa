@@ -443,7 +443,7 @@
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/cercube5noads.ipa",
     "version": "15.22.4",
     "last_updated": "unknown",
-    "bundle_id": "com.google.io.youtube",
+    "bundle_id": "com.google.ios.youtube",
     "author": "Majd Alfhaily",
     "min_ios": "iOS 11.0 later",
     "Description": "Cercube 5 but without ads",
