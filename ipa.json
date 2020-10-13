@@ -688,5 +688,15 @@
     "min_ios": "iOS 10.0 or later",
     "Description": "SubwaySurfer with the DLG Cheat engine",
     "size": "102MB"
+  },
+  "PlankAmongUS": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/PlankAmongUs_2020.9.9.ipa",
+    "version": "2020.9.9",
+    "last_updated": "13/10/2020",
+    "bundle_id": "org.brandonplank.filza",
+    "author": "BrandonPlank & pixelomer",
+    "min_ios": "iOS 13.0 or later",
+    "Description": "Custom Server Support",
+    "size": "54MB"
   }
 }
