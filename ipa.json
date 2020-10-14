@@ -100,7 +100,7 @@
     "size": "20MB"
   },
   "PPSSPP": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/PPSSPP_v1.10.3-600-g8a9b4ab40.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/PPSSPP_v1.10.3.ipa",
     "version": "v1.10.3",
     "last_updated": "unknown",
     "bundle_id": "org.ppsspp.ppsspp",
