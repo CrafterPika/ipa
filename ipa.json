@@ -708,5 +708,15 @@
     "min_ios": "iOS 10.0 or later",
     "Description": "DLG in the Game HungrySharkWorld",
     "size": "132MB"
+  },
+  "Airbrush_iOSGods": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/AirBrush.-.Best.Photo.Editor.Modded.No.Jailbreak.Cheats.4.14.4.Hacked.IPA.by.iOSGods.com.ipa",
+    "version": "4.14.4.1",
+    "last_updated": "idk",
+    "bundle_id": "com.magicv.AirBrush",
+    "author": "iOS Gods",
+    "min_ios": "iOS 8.0 or later",
+    "Description": "Premium features enabled",
+    "size": "108MB"
   }
 }
