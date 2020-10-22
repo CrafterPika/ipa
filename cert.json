@@ -1,0 +1,12 @@
+{
+  "Toyla":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/toyla/Toyola.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/toyla/Toyola.mobileprovision",
+    "password": "123"
+  },
+  "Qingdao":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/qingdao/Qingdao.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/qingdao/Qingdao.mobileprovision",
+    "password": "123123"
+  }
+}
