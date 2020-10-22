@@ -8,5 +8,10 @@
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/qingdao/Qingdao.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/qingdao/Qingdao.mobileprovision",
     "password": "123123"
+  },
+  "CB":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/cb/cb.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/cb/cb.mobileprovision",
+    "password": "123456"
   }
 }
