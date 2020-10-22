@@ -13,5 +13,25 @@
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/cb/cb.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/cb/cb.mobileprovision",
     "password": "123456"
+  },
+  "Newsstreet":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/Newsstreetjournal/Newsstreetjournal.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/Newsstreetjournal/Newsstreetjournal.mobileprovision",
+    "password": "123"
+  },
+  "kailunan":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/kailunan/kailunan.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/kailunan/kailunan.mobileprovision",
+    "password": "qwe123"
+  },
+  "linkplay":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/linkplay/linkplay.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/linkplay/linkplay.mobileprovision",
+    "password": "11111111"
+  },
+  "shenxun":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/shenxun/shenxun.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/shenxun/shenxun.mobileprovision",
+    "password": "123456"
   }
 }
