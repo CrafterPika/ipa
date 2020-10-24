@@ -670,12 +670,12 @@
     "size": "345MB"
   },
   "Spotilife": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Spotify_8.5.81_103A.ipa",
-    "version": "8.5.81 (103A)",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Spotify_8.5.81_103A_fix.ipa",
+    "version": "8.5.81 (103A) fix",
     "last_updated": "24/10/2020",
     "bundle_id": "com.spotify.client",
     "author": "Juilioverne",
-    "min_ios": "iOS 12.2 or later",
+    "min_ios": "iOS 10.0 or later",
     "Description": "Spotilife (Aka. Spotify++) on the latest Spotify!",
     "size": "42MB"
   },
