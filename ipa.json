@@ -672,7 +672,7 @@
   "Spotilife": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Spotify_8.5.81_103A.ipa",
     "version": "8.5.81 (103A)",
-    "last_updated": "05/10/2020",
+    "last_updated": "24/10/2020",
     "bundle_id": "com.spotify.client",
     "author": "Juilioverne",
     "min_ios": "iOS 12.2 or later",
