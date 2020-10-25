@@ -33,5 +33,10 @@
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/shenxun/shenxun.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/shenxun/shenxun.mobileprovision",
     "password": "123456"
+  },
+  "ChengduBlue":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/ChengduBlue/Chengdu%20BlueLanse%20Tide%20Technology%20Co.%2C%20Ltd.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/ChengduBlue/Chengdu%20BlueLanse%20Tide%20Technology%20Co.%2C%20Ltd.mobileprovision",
+    "password": "123123123"
   }
 }
