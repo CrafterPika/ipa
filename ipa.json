@@ -736,7 +736,7 @@
     "bundle_id": "com.google.youtube.ios",
     "author": "atebitsy",
     "min_ios": "iOS 11.0 or later",
-    "Description": "- No Preroll Video Ads.\n- No Mid Video Ads.\n- No End Video Ads.\n- No Video Ads.\n- No Video Black Screen.\n- No Homescreen Ads.\n- No Search Ads.\n- No Ads Under Videos.\n- Background Playback.",
+    "Description": "\n- No Preroll Video Ads.\n- No Mid Video Ads.\n- No End Video Ads.\n- No Video Ads.\n- No Video Black Screen.\n- No Homescreen Ads.\n- No Search Ads.\n- No Ads Under Videos.\n- Background Playback.",
     "size": "71MB"
   }
 }
