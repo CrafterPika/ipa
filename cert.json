@@ -38,5 +38,10 @@
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/ChengduBlue/Chengdu%20BlueLanse%20Tide%20Technology%20Co.%2C%20Ltd.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/ChengduBlue/Chengdu%20BlueLanse%20Tide%20Technology%20Co.%2C%20Ltd.mobileprovision",
     "password": "123123123"
+  },
+  "SuzhouLin":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/SuzhouLin/SuzhouLin.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/SuzhouLin/SuzhouLin.mobileprovision",
+    "password": "1234"
   }
 }
