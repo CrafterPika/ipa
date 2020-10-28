@@ -729,4 +729,14 @@
     "Description": "\n- No Preroll Video Ads.\n- No Mid Video Ads.\n- No End Video Ads.\n- No Video Ads.\n- No Video Black Screen.\n- No Homescreen Ads.\n- No Search Ads.\n- No Ads Under Videos.\n- Background Playback.",
     "size": "71MB"
   }
+  "AmongUS++": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/AmongUS_all_pets_skins_etc_unlocked_2020.9.9.ipa",
+    "version": "2020.9.9",
+    "last_updated": "25/10/2020",
+    "bundle_id": "com.innersloth.amongus",
+    "author": "don't know tbh",
+    "min_ios": "iOS 8.0 or later",
+    "Description": "All Pets/Skins/etc are unlocked",
+    "size": "50MB"
+  }
 }
