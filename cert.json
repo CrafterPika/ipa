@@ -43,10 +43,5 @@
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/SuzhouLin/SuzhouLin.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/SuzhouLin/SuzhouLin.mobileprovision",
     "password": "1234"
-  },
-  "Loimaks":{
-    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/Loimaks/Loimaks.p12",
-    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/Loimaks/Loimaks.mobileprovision",
-    "password": "111111"
   }
 }
