@@ -510,7 +510,7 @@
     "size": "2MB"
   },
   "RootlessJB4": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/rootlessJB4.ipa",
+    "ipa": "https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa",
     "version": "1.0",
     "last_updated": "unknown",
     "bundle_id": "com.jakeashacks.iSuperSU",
