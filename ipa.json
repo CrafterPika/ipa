@@ -738,5 +738,45 @@
     "min_ios": "iOS 8.0 or later",
     "Description": "All Pets/Skins/etc are unlocked",
     "size": "50MB"
+  },
+  "yalu102": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/yalu102_beta7.ipa",
+    "version": "b.7",
+    "last_updated": "idk",
+    "bundle_id": "kim.cracksby.yalu102",
+    "author": "KJC Team",
+    "min_ios": "iOS 10.0 or later",
+    "Description": "iOS 10-10.2 JB",
+    "size": "7MB"
+  },
+  "yaluX": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/extra_recipe+yaluX.beta4.ipa",
+    "version": "b.4",
+    "last_updated": "idk",
+    "bundle_id": "com.example.extra-recipe",
+    "author": "KJC Team",
+    "min_ios": "iOS 10.1 or later",
+    "Description": "iOS 10-10.1.1 JB (for iPhone 7 Devices)",
+    "size": "7MB"
+  },
+  "Pangu": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/NvwaStone_1.1.ipa",
+    "version": "1.1",
+    "last_updated": "idk",
+    "bundle_id": "io.pangu.nvwastone",
+    "author": "PanguTeam",
+    "min_ios": "iOS 10.1 or later",
+    "Description": "iOS 9.0 - 9.3.3 JB",
+    "size": "21MB"
+  },
+  "HomeDepot": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/MixtapePlayerRC3.ipa",
+    "version": "RC3",
+    "last_updated": "idk",
+    "bundle_id": "supplies.wall.Home-Depot",
+    "author": "KJC Team",
+    "min_ios": "iOS 10.1 or later",
+    "Description": "iOS 9.0 - 9.3.4 JB (32-bit)",
+    "size": "26MB"
   }
 }
