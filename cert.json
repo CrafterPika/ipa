@@ -43,5 +43,10 @@
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/SuzhouLin/SuzhouLin.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/SuzhouLin/SuzhouLin.mobileprovision",
     "password": "1234"
+  },
+  "Shanghai":{
+    "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/Shanghai/Shanghai.p12",
+    "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/Shanghai/Shanghai.mobileprovision",
+    "password": "4455ll"
   }
 }
