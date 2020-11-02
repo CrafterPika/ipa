@@ -70,7 +70,7 @@
     "size": "25MB"
   },
   "unc0ver": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/unc0ver_5.3.1.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/unc0ver_5.3.1.ipa",
     "version": "5.3.1",
     "last_updated": "23/07/2020",
     "bundle_id": "science.xnu.undecimus",
@@ -80,7 +80,7 @@
     "size": "41MB"
   },
   "Chimera": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Chimera_v1.4.0.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/Chimera_v1.4.0.ipa",
     "version": "1.4.0",
     "last_updated": "unknown",
     "bundle_id": "com.electrateam.chimera",
@@ -290,7 +290,7 @@
     "size": "96MB"
   },
   "h3lix": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/h3lix-RC6.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/h3lix-RC6.ipa",
     "version": "1.0-RC6",
     "last_updated": "unknown",
     "bundle_id": "org.tihmstar.h3lix",
@@ -300,7 +300,7 @@
     "size": "8MB"
   },
   "doubleh3lix": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/doubleH3lix-RC8.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/doubleH3lix-RC8.ipa",
     "version": "1.0-RC8",
     "last_updated": "unknown",
     "bundle_id": "org.tihmstar.doubleh3lix",
@@ -310,7 +310,7 @@
     "size": "10MB"
   },
   "etasonjb": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/etasonJB-RC5.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/etasonJB-RC5.ipa",
     "version": "1.0-RC5",
     "last_updated": "unknown",
     "bundle_id": "org.tihmstar.etasonjb",
@@ -330,7 +330,7 @@
     "size": "10MB"
   },
   "phoenix": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Phoenix5.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/Phoenix5b.ipa",
     "version": "5.0",
     "last_updated": "unknown",
     "bundle_id": "supplies.wall.phoenix",
@@ -360,7 +360,7 @@
     "size": "24MB"
   },
   "Houdini": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/houdini_b2r1_official.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/houdini_b2r1_official.ipa",
     "version": "b2r1",
     "last_updated": "unknown",
     "bundle_id": "com.cheesecakeufo.houdini",
@@ -460,7 +460,7 @@
     "size": "98MB"
   },
   "FilzaEscaped13": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FilzaEscaped13.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/FilzaEscaped13.ipa",
     "version": "3.7",
     "last_updated": "unknown",
     "bundle_id": "com.dry05-filzaescaped11-12",
@@ -470,7 +470,7 @@
     "size": "13MB"
   },
   "iSH_RW": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/iSH_RW.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/iSH_RW.ipa",
     "version": "1.0",
     "last_updated": "unknown",
     "bundle_id": "com.jankais3r.iSH",
