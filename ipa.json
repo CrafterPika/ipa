@@ -120,7 +120,7 @@
     "size": "1MB"
   },
   "Provenance": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Provenance_1.5_beta.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Emulators/Provenance_1.5_beta.ipa",
     "version": "v1.5-beta",
     "last_updated": "unknown",
     "bundle_id": "net.hollr.Provenance4",
@@ -130,7 +130,7 @@
     "size": "45MB"
   },
   "NDS4iOS": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/nds4ios.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Emulators/nds4ios.ipa",
     "version": "2.0",
     "last_updated": "unknown",
     "bundle_id": "org.infinidev.nds4ios",
@@ -140,7 +140,7 @@
     "size": "3MB"
   },
   "GBA4iOS": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/GBA4iOS_v2.1.1.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Emulators/GBA4iOS_v2.1.1.ipa",
     "version": "2.1",
     "last_updated": "2017",
     "bundle_id": "com.macbuildserver.GBA4iOS",
@@ -150,7 +150,7 @@
     "size": "23MB"
   },
   "DolphiniOS": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/DolphiniOS-NJB-3.0.0-257.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Emulators/DolphiniOS-NJB-3.0.0-257.ipa",
     "version": "3.0.0",
     "last_updated": "unknown",
     "bundle_id": "me.oatmealdome.DolphiniOS-njb",
@@ -420,7 +420,7 @@
     "size": "106MB"
   },
   "Play!": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/Play.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Emulators/Play.ipa",
     "version": "0.30",
     "last_updated": "unknown",
     "bundle_id": "com.virtualapplications.play",
@@ -430,7 +430,7 @@
     "size": "1MB"
   },
   "GC4iOS": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/GC4iOS.v0.13.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Emulators/GC4iOS.v0.13.ipa",
     "version": "0.1.3",
     "last_updated": "unknown",
     "bundle_id": "com.kabiroberai.GC4iOS",
@@ -480,7 +480,7 @@
     "size": "3MB"
   },
   "DiOS_Patreon": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/DiOS_Patreon_v96.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Emulators/DiOS_Patreon_v96.ipa",
     "version": "3.1.0",
     "last_updated": "unknown",
     "bundle_id": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
