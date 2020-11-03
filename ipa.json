@@ -100,7 +100,7 @@
     "size": "20MB"
   },
   "PPSSPP": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/PPSSPP_v1.10.3.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Emulators/PPSSPP_v1.10.3.ipa",
     "version": "v1.10.3",
     "last_updated": "unknown",
     "bundle_id": "org.ppsspp.ppsspp",
@@ -600,8 +600,8 @@
     "size": "67MB"
   },
   "MAME4iOS": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/MAME4iOS-2020.12.ipa",
-    "version": "2020.12",
+    "ipa": "https://github.com/yoshisuga/MAME4iOS/releases/download/2020.13/MAME4iOS-2020.13.ipa",
+    "version": "2020.13",
     "last_updated": "23/08/2020",
     "bundle_id": "com.example.mame4ios",
     "author": "yoshisuga",
