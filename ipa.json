@@ -40,7 +40,7 @@
     "size": "16MB"
   },
   "CrackTool3": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/CrackTools3_3.0-beta11.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Utils/CrackTools3_3.0-beta11.ipa",
     "version": "3.0~beta11",
     "last_updated": "Unknown",
     "bundle_id": "com.julioverne.cracktool3",
@@ -390,7 +390,7 @@
     "size": "95MB"
   },
   "BatteryLife": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/BatteryLife.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Utils/BatteryLife.ipa",
     "version": "1.6.9",
     "last_updated": "unknown",
     "bundle_id": "com.rbt.batteryLifeApp",
@@ -400,7 +400,7 @@
     "size": "1MB"
   },
   "FileBrowser": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FileBrowser_v1.2.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Utils/FileBrowser_v1.2.ipa",
     "version": "1.2",
     "last_updated": "unknown",
     "bundle_id": "com.highcaffeinecontent.Files",
@@ -500,7 +500,7 @@
     "size": "13MB"
   },
   "ESign": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/esign_1.1.3_co.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Utils/esign_1.1.3_co.ipa",
     "version": "1.1.3",
     "last_updated": "unknown",
     "bundle_id": "xyz.esign.YYYSign",
@@ -560,7 +560,7 @@
     "size": "13MB"
   },
   "LightiningSign": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/LightiningSign_1.0.0_Abood.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Utils/LightiningSign_1.0.0_Abood.ipa",
     "version": "1.0.0",
     "last_updated": "unknown",
     "bundle_id": "com.dreamteam.ios",
@@ -570,7 +570,7 @@
     "size": "6MB"
   },
   "GBox": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/GBox_v2.9.8.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Utils/GBox_v2.9.8.ipa",
     "version": "2.9.8",
     "last_updated": "unknown",
     "bundle_id": "com.nes.gbox",
@@ -580,7 +580,7 @@
     "size": "8MB"
   },
   "BoarSign": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/BoarSign_v1.2_InstaTechHD.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Utils/BoarSign_v1.2_InstaTechHD.ipa",
     "version": "1.2",
     "last_updated": "unknown",
     "bundle_id": "JK.AtWillSign",
