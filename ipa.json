@@ -809,4 +809,14 @@
     "Description": "Some modded Photo app idk",
     "size": "20.5 MB"
   }
+  "Kodi": {
+    "ipa": "http://crafterpika.ml/ipa/org.xbmc.kodi-ios_19.0-0_iphoneos-arm64.ipa",
+    "version": "19.0-0",
+    "last_updated": "19/02/2021",
+    "bundle_id": "org.xbmc.kodi-ios",
+    "author": "XBMC Foundation",
+    "min_ios": "11.0+",
+    "Description": "The Ultimate Media Center",
+    "size": "111 MB"
+  }
 }
