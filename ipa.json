@@ -808,7 +808,7 @@
     "min_ios": "13.0+",
     "Description": "Some modded Photo app idk",
     "size": "20.5 MB"
-  }
+  },
   "Kodi": {
     "ipa": "http://crafterpika.ml/ipa/org.xbmc.kodi-ios_19.0-0_iphoneos-arm64.ipa",
     "version": "19.0-0",
