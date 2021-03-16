@@ -818,5 +818,15 @@
     "min_ios": "11.0+",
     "Description": "The Ultimate Media Center",
     "size": "111 MB"
+  },
+  "Detector": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Utils/Detector_1.4_Beta_4.ipa",
+    "version": "1.4 beta 4",
+    "last_updated": "2020",
+    "bundle_id": "com.michelbarnich.Detector-Beta",
+    "author": "michelbarnich",
+    "min_ios": "9.0+",
+    "Description": "Pretty good Jailbreak detection test app",
+    "size": "94.2 MB"
   }
 }
