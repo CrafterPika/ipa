@@ -70,14 +70,14 @@
     "size": "25MB"
   },
   "unc0ver": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/unc0ver_5.3.1.ipa",
-    "version": "5.3.1",
-    "last_updated": "23/07/2020",
+    "ipa": "https://unc0ver.dev/downloads/6.1.1/decf7c36cc08118dc83ba455f8ca42e0e3cf354c/unc0ver_Release_6.1.1.ipa",
+    "version": "6.1.1",
+    "last_updated": "06/03/2021",
     "bundle_id": "science.xnu.undecimus",
     "author": "pwn20wnd & SBinger",
-    "min_ios": "iOS 11.0 - 13.5",
+    "min_ios": "iOS 11.0 - 14.3",
     "Description": "The most advanced jailbreak tool.",
-    "size": "41MB"
+    "size": "55,9 MB"
   },
   "Chimera": {
     "ipa": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.5.0-12.0-12.4.ipa",
@@ -828,5 +828,15 @@
     "min_ios": "9.0+",
     "Description": "Pretty good Jailbreak detection test app",
     "size": "94.2 MB"
+  },
+  "Taurine": {
+    "ipa": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.1/Taurine-1.0.1.ipa",
+    "version": "1.0.1",
+    "last_updated": "04/04/2021",
+    "bundle_id": "com.odysseyteam.taurine",
+    "author": "Coolstar",
+    "min_ios": "14.0-14.3",
+    "Description": "Better Then unc0ver",
+    "size": "26.9 MB"
   }
 }
