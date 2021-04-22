@@ -60,7 +60,7 @@
     "size": "244MB"
   },
   "Odyssey": {
-    "ipa": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2.2/Odyssey-1.2.2.ipa",
+    "ipa": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.3.3/Odyssey-1.3.3.ipa",
     "version": "1.2.2",
     "last_updated": "23/09/2020",
     "bundle_id": "org.coolstar.odyssey",
@@ -70,7 +70,7 @@
     "size": "25MB"
   },
   "unc0ver": {
-    "ipa": "https://unc0ver.dev/downloads/6.1.1/decf7c36cc08118dc83ba455f8ca42e0e3cf354c/unc0ver_Release_6.1.1.ipa",
+    "ipa": "https://unc0ver.dev/downloads/6.1.2/56dd2827d0f4585f6cf21a8e08a1a4eba6f2cdb2/unc0ver_Release_6.1.2.ipa",
     "version": "6.1.1",
     "last_updated": "06/03/2021",
     "bundle_id": "science.xnu.undecimus",
@@ -830,8 +830,8 @@
     "size": "94.2 MB"
   },
   "Taurine": {
-    "ipa": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.1/Taurine-1.0.1.ipa",
-    "version": "1.0.1",
+    "ipa": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.4/Taurine-1.0.4.ipa",
+    "version": "1.0.4",
     "last_updated": "04/04/2021",
     "bundle_id": "com.odysseyteam.taurine",
     "author": "Coolstar",
